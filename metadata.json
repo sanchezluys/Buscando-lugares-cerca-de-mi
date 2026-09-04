@@ -1,0 +1,6 @@
+{
+  "name": "Lugares Cerca",
+  "description": "Recomendaciones de los 5 mejores sitios para visitar cerca de tu ubicación usando OpenStreetMap y Google Maps sin requerir API keys, con filtros por categoría y estrellas, mapa interactivo y lista de favoritos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
